@@ -1,0 +1,9 @@
+NAME: unbounded problem example
+
+p_t: 0
+n_v: 2
+n_c: 2
+
+Z = 2 2
+1 2 > 5
+1 1 > 3

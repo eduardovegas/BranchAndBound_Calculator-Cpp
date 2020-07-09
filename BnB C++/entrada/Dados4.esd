@@ -1,0 +1,10 @@
+NAME: degeneracy problem example
+
+p_t: 0
+n_v: 2
+n_c: 3
+
+Z = 1 2
+1 1 < 3
+0 1 < 2
+0.5 1 < 2.5

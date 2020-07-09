@@ -1,0 +1,9 @@
+NAME: Wilson Problem Dual
+
+p_t: 1
+n_v: 4
+n_c: 2
+
+Z = 500 500 960 3600
+1 0 1 5 > 7
+0 1 2 6 > 10
