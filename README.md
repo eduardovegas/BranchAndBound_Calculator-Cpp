@@ -1,5 +1,5 @@
 # Branch-and-Bound Calculator in C++
-Implementation of the Branch-and-Bound method for solving Integer Programming problems.
+Implementation of the Branch-and-Bound method for solving Integer Linear Programming problems.
 
 Compiling and Running
 ----------------------
@@ -20,7 +20,7 @@ The default search is DFS(Depth-First Search) with backtracking, giving priority
 **./bnb.exe entrada/DadosXX.esd ARG1 ARG2 ARG3**  
 
 **ARG1**: Search type, (0) for DFS with backtracking, and (1) for BFS(Breadth-First Search).  
-**ARG2**: Constraint priority, (0) for '<=', and (1) for '>=' constraints.  
+**ARG2**: Son priority, (0) for '<=', and (1) for '>=' constraints.  
 **ARG3**: Specifies how often the program will print the nodes on the screen. '1000' will print every 1000 new nodes, including the root node.    
 
 If **ARG2** or **ARG3** are not specified, the program will set priority to '<=' constraints and print every new node, respectively.  
